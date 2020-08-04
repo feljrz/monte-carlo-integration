@@ -1,2 +1,2 @@
-## Integral de Monte Carlo
+## Integração de Monte Carlo
 
